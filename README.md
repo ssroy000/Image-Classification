@@ -217,16 +217,6 @@ gradcam_pp.jpg
 
 ---
 
-## ⚙️ Installation
-
-Install dependencies:
-
-```bash
-pip install torch torchvision scikit-learn numpy opencv-python pillow
-```
-
----
-
 ## ▶️ How to Run
 
 ### Step 1: Navigate to project folder
